@@ -15,6 +15,6 @@
 <br />
 
 [discord]: https://discord.gg/ArRrGB29
-[instagram]: https://www.instagram.com/_aadriaan31_/
+[instagram]: https://www.instagram.com/_aadriaan31/
 [twitch]: https://www.twitch.tv/ryannnnfn
 [youtube]: https://www.youtube.com/channel/UC63-NeiBoecpRXtgcNCcDjw?view_as=subscriber

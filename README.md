@@ -1,23 +1,42 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=%20UnknownonDev&fontSize=90&animation=twinkling)
+<!-- 
 
+	~> If you see this don't forget to follow me before skid <3
 
-![My stats](https://github-readme-stats.vercel.app/api?username=RyanonDev&show_icons=true&count_private=true)
+-->
 
-### Connect with me:
+```py
+from Github.Readme import ReadmeProfile
 
-[<img align="left" alt="utkuali| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
+class KanekiWeb(ReadmeProfile):
+    def __init__(self):
+        self.Username = "UnknownonDev"
+        self.Contacts = {
+            "Discord": "XXXX",
+            "Youtube": "XXXX",
+	    "Telegram": "t.me/PDXCommunity",
+        }
+        self.Alias = {
+            "UnknownonDev",
+        }
+        self.Infos = """
+            Hey, my name is UnknownonDev, I am 17 years old and I develop myself in my free time, currently I learn with what I study
+        """        
+        self.Knowledge = {
+            "Web": {
+                "Html", "Css", "Javascript"
+            },
+            "Basic": {
+                "Python", "Lua", "Nodejs"
+            }
+        }
+```
 
-<br />
-
-[discord]: https://discord.gg/ArRrGB29
-
-<br />
-
-### Tech Stack 🛠
-<p > 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/>&nbsp
+<p align="center">
+	<img src="https://lanyard-profile-readme.vercel.app/api/922450497074495539?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
+<!-- 	<br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiWeb&theme=dark&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=KanekiWeb&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiWeb&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"> -->
 </p>

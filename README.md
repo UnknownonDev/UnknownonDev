@@ -13,7 +13,6 @@ class KanekiWeb(ReadmeProfile):
         self.Contacts = {
             "Discord": "XXXX",
             "Youtube": "XXXX",
-	    "Telegram": "t.me/PDXCommunity",
         }
         self.Alias = {
             "UnknownonDev",
